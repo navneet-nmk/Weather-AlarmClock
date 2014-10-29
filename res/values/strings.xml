@@ -4,5 +4,6 @@
     <string name="app_name">Weather AlarmClock</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="alarmButton">Set Alarm</string>
 
 </resources>
